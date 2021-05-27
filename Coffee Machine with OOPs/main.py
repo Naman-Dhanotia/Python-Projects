@@ -10,6 +10,7 @@ is_on = True
 
 while is_on:
     options = menu.get_items()
+    print("Enter off to exit and report to get report of availble ingredients.")
     choice = input(f"What would you like? ({options}): ")
     if choice == "off":
         is_on = False
