@@ -27,3 +27,4 @@
 - B) Intermediate Projects
   - Day15: Coffee Machine
   - Day16: Coffee Machine with OOP
+  - Day17: Quiz(T/F) Game
