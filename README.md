@@ -2,6 +2,7 @@
 - Hey! I'm Naman. Good to see you.
 - This repository is basically a compilation of all the projects I did using python and its different libraries.
 - Have a look at them. And do commit if you feel something can be done in a better possible way.
+- Note: All these projects were done under python course: 100 Days of Code - The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu.
 - Thank you for visiting.
 - Take Care!
 
@@ -17,3 +18,6 @@
   - Day8: Caeser Cipher
   - Day9: Secret Auction
   - Day10: Simple Calculator
+  - Day11: Blackjack Game
+  - Day12: Guess the number game
+  - Day13: 
