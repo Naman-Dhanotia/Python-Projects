@@ -7,6 +7,7 @@
 - Take Care!
 
 - List of Projects:
+
 - A) Beginner Projects
   - Day1: Band Name Generator
   - Day2: Bill Calculator
@@ -20,4 +21,9 @@
   - Day10: Simple Calculator
   - Day11: Blackjack Game
   - Day12: Guess the number game
-  - Day13: 
+  - Day13: Debugging(not here)
+  - Day14: Higher Lower Game
+
+- B) Intermediate Projects
+  - Day15: Coffee Machine
+  - Day16: Coffee Machine with OOP
