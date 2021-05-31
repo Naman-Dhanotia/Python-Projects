@@ -28,3 +28,9 @@
   - Day15: Coffee Machine
   - Day16: Coffee Machine with OOP
   - Day17: Quiz(T/F) Game
+  - Day18: Dot/Spot Painting by Damien Hirst
+  - Day19: Etch-A-Sketch App and Turtle Racing Game
+  - Day20+21: Snake Game
+  - Day22: Pong Game
+  - Day23: Turtle-Car Crossing Game
+  - Day24: Birthday Mail Merge Project & adding high score function to snake game
